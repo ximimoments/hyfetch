@@ -7,7 +7,7 @@
     "url": "https://github.com/hykilpikonna/hyfetch"
   },
   "bin": {
-    "neowofetch": "neofetch"
+    "katifetch": "neofetch"
   },
   "files": [
     "neofetch"
